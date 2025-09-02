@@ -1,0 +1,35 @@
+# macOS
+.DS_Store
+
+# Jupyter Notebooks
+.ipynb_checkpoints
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+env/
+.venv/
+venv/
+*.egg-info/
+
+# Outputs
+/outputs/
+/data/
+/models/
+*.joblib
+*.pkl
+*.csv
+
+# Media files
+*.mp4
+*.mov
+*.docx
+*.doc
+*.pdf
+*.png
+*.zip
+*.env
+
